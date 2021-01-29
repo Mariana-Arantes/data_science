@@ -1,5 +1,5 @@
 <p align="C:\ANALISE DADOS">
-  <img src="banner2.png" >
+  <img src="banner2.jpg" >
 </p>
 
 # Mariana Arantes
