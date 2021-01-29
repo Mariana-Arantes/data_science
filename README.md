@@ -13,7 +13,6 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 
 **Links:**
 * [LinkedIn](www.linkedin.com/in/mariana-arantes-b830b7129)
-* [Medium](https://www.medium.com)
 
 
 ## Projetos:
