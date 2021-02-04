@@ -5,16 +5,15 @@
 # Mariana Arantes
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Atuando como Coordenadora de Suporte e Projetos há mais de 15 anos, adquiri habilidades analíticas para resolução de problemas, capacidade de trabalhar em equipe e atenção aos detalhes. 
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
-
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+Sou formada em Análise e Desenvolvimento de Sistemas e atualmente estou migrando de área para me dedicar a Ciência de Dados.
 
 **Links:**
 * [LinkedIn](www.linkedin.com/in/mariana-arantes-b830b7129)
 
 
 ## Projetos:
+Neste espaço vou compartilhar os projetos que desenvolvi em cursos e estudos diversos
 
-* **Analizando os dados do Airbnb: 
+**Analizando os dados do Airbnb:** https://colab.research.google.com/drive/1uKqqVn1tqjw9rAcio9QN-XvwxcvGzvVn
