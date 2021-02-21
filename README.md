@@ -16,3 +16,4 @@ Sou formada em Análise e Desenvolvimento de Sistemas e atualmente estou migrand
 Neste espaço vou compartilhar os projetos que desenvolvi em cursos e estudos diversos
 
 **Analizando os dados do Airbnb:** https://colab.research.google.com/drive/1uKqqVn1tqjw9rAcio9QN-XvwxcvGzvVn
+**Analizando a Violência no Rio de Janeiro:** 
