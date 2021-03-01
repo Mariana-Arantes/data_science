@@ -4,7 +4,7 @@
 
 # Mariana Arantes
 
-Atuando como Coordenadora de Suporte e Projetos a mais de 15 anos, adquiri habilidades analíticas para resolução de problemas, capacidade de trabalhar em equipe e atenção aos detalhes. 
+Atuando como Coordenadora de Suporte e Projetos a mais de 15 anos, adquiri capacidade analítica, facilidade de trabalhar em equipe e sob pressão. Busco sempre oportunidades para automatizar tarefas e processos. Estou sempre me atualizando em relação as melhores práticas e ferramentas na área de dados.
 
 Sou formada em Análise e Desenvolvimento de Sistemas e atualmente estou migrando de área para me dedicar a Análise de Dados.
 
