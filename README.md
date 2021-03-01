@@ -16,4 +16,5 @@ Sou formada em Análise e Desenvolvimento de Sistemas e atualmente estou migrand
 Neste espaço vou compartilhar os projetos que desenvolvi em cursos e estudos diversos
 
 **Analizando os dados do Airbnb:** https://github.com/Mariana-Arantes/data_science/blob/main/Analisando_os_Dados_do_AirbnbNY.ipynb
+
 **Analizando a Violência no Rio de Janeiro:** https://github.com/Mariana-Arantes/data_science/blob/main/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb
