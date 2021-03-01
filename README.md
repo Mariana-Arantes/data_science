@@ -9,7 +9,7 @@ Atuando como Coordenadora de Suporte e Projetos a mais de 15 anos, adquiri capac
 Sou formada em Análise e Desenvolvimento de Sistemas e atualmente estou migrando de área para me dedicar a Análise de Dados.
 
 **Links:**
-* [LinkedIn](www.linkedin.com/in/mariana-arantes-b830b7129)
+* [LinkedIn](https://www.linkedin.com/in/mariana-arantes-/)
 
 
 ## Projetos:
